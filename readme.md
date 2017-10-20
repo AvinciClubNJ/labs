@@ -1,7 +1,7 @@
-# AvinciClub Lab project repository
+# AvinciClub Lab Project Repository
 
 ## Purpose
-The repository is used for teacher sharing code samples during the class. Don't use this for student homework.
+This repository is used for teacher sharing code samples during the class. Don't use this for student homework.
 
 ## Guidelines
 ### ***Branches***
