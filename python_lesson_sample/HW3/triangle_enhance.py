@@ -1,17 +1,21 @@
 #!/usr/bin/env python
 
 while True:
-    userIn = input("Please enter a char to build the triangle: ")
+    userIn = input("Please enter a char between a-z to build the triangle: ")
     if len(userIn) > 0:
         c = userIn[0]
-        break
+        if c >= 'a' and c <= 'z': 
+            break
 
 while True:
-    widthIn = input("Please enter the triangle base width, odd number only: ")
+    widthIn = input("Please enter the triangle base width less than 20, odd number only: ")
     if len(widthIn) == 0:
         continue
 
     width = int(widthIn)
+    if (width >= 20):
+        continue
+
     if (width % 2 == 0):
         continue
     else:
