@@ -12,6 +12,3 @@ Homework 5:
 		1.2.2.3 if user choose 3, display the dictionary content and break out of loop
 	1.3. Make a limit of number of items to be 5. If the stored items in dictionary reaches 5, display the dictionary content and break out of loop
 	1.4 Make the display of dictionary content as a function being called in different places. The display of dictionary will be display keys, values and key-value pairs
-
-
-
