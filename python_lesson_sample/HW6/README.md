@@ -12,6 +12,11 @@ Then call the corresponding function based on user’s choice.
 
 4. Implement function genListFromMenu
 This function reads 2 global lists (provided), randomly generate a list of dishes, one from each list. Print output. 
+The 2 global lists are in a file dishlist.py. To use it, from your program, enter following.
+
+from dishlist import *
+
+Then use as normal, for instance, print(meatList)
 
 Hint: Utilize math random module. Question: What number should be used to define range when generating the random number?
 
