@@ -35,7 +35,7 @@ myGame.start()
 ```
 
 3.4 The final result should be like this:
-<iframe src="https://trinket.io/embed/python/ecccdaf56d?outputOnly=true&start=result" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+https://trinket.io/embed/python/ecccdaf56d?outputOnly=true&start=result
 
 ### 4. Reply the homework post on google class room with your remixed code link.
 
