@@ -1,5 +1,7 @@
 # AvinciClub Lab Project Repository
 
+[![Join the chat at https://gitter.im/avinciclub/Lobby](https://badges.gitter.im/avinciclub/Lobby.svg)](https://gitter.im/avinciclub/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## Purpose
 This repository is used for teacher sharing code samples during the class. Don't use this for student homework.
 
